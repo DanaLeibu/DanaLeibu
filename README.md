@@ -1,16 +1,24 @@
-## Hi there 👋
+🚀 About Me 
+Hey there! I'm a Computer Science student at HIT with a passion for web development and complex problem-solving. 
 
-<!--
-**DanaLeibu/DanaLeibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Second-year CS student specializing in web development 
+💡 Self-driven learner who thrives on technical challenges 
+🌱 Always coding, always learning 
+🛠️ Tech Stack 
+🔥 React | Node.js | Express.js 
+💻 JavaScript | TypeScript 
+🌐 HTML | CSS | Tailwind 
+📊 RESTful APIs 
 
-Here are some ideas to get you started:
+🔍 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Building responsive and intuitive web applications 
+📚 Deepening my knowledge of modern development workflows 
+🧩 Creating efficient solutions to complex problems 
+
+🚀 Projects
+Check out my repositories to see what I've been working on, including Task Master, my efficient to-do application! 
+🤝 Let's Connect! I'm always open to collaborating on exciting projects or discussing new technologies. 
+💬 Get in Touch Feel free to reach out if you have questions or want to collaborate on something cool!
+
+"Code is like humor. When you have to explain it, it's bad." - Cory House
